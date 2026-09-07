@@ -1,2 +1,2 @@
 # gym-and-fitness
-lets talk about gym and fitness
+ about gym and fitness
